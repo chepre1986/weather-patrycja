@@ -1,15 +1,21 @@
 .App {
   text-align: center;
-  color: red;
+  color: #006A71;
+  background-color: #FFFFDD;
+  border-radius: 10px;
 }
 
 
 .App-footer {
-  background-color: #282c34;
-  color: white;
+  color: #D3DE32;
+  font-size: 11px;
+  margin: 10 px 0;
 }
 
-.App-link {
-  color: #61dafb;
+.source-link {
+  color: #CBEAED;
 }
 
+h1 {
+  padding-top: 10px;
+}

@@ -1,3 +1,13 @@
 form{
     padding: 20px;
+   
+}
+
+.button {
+    background-color: #CBEAED !important;
+    border-radius: 10px;
+}
+.holder{
+    background-color: #D3DE32 !important;
+    border-radius: 10px;
 }
